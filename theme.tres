@@ -3,7 +3,7 @@ interface/theme/base_color = Color(0.152941, 0.192157, 0.211765, 1)
 interface/theme/accent_color = Color(1, 0.929412, 0.447059, 1)
 
 text_editor/theme/color_theme = "Custom"
-text_editor/theme/highlighting/symbol_color = Color(0.486275, 0.835294, 0.945098, 1)
+text_editor/theme/highlighting/symbol_color = Color(1, 0.427451, 0.494118, 1)
 text_editor/theme/highlighting/keyword_color = Color(0.486275, 0.835294, 0.945098, 1)
 text_editor/theme/highlighting/control_flow_keyword_color = Color(1, 0.427451, 0.494118, 1)
 text_editor/theme/highlighting/base_type_color = Color(0.635294, 0.898039, 0.482353, 1)
@@ -31,3 +31,12 @@ text_editor/theme/highlighting/gdscript/node_path_color = Color(1, 0.929412, 0.4
 text_editor/theme/highlighting/gdscript/node_reference_color = Color(0.729412, 0.627451, 0.972549, 1)
 text_editor/theme/highlighting/gdscript/annotation_color = Color(0.729412, 0.627451, 0.972549, 1)
 text_editor/theme/highlighting/gdscript/string_name_color = Color(1, 0.929412, 0.447059, 1)
+
+editors/2d/guides_color = Color(1, 0.929412, 0.447059, 1)
+editors/2d/smart_snapping_line_color = Color(1, 0.427451, 0.494118, 1)
+editors/animation/onion_layers_past_color = Color(1, 0.427451, 0.494118, 1)
+editors/animation/onion_layers_future_color = Color(0.635294, 0.898039, 0.482353, 1)
+editors/bone_mapper/handle_colors/unset = Color(0.227451, 0.266667, 0.286275, 1)
+editors/bone_mapper/handle_colors/set = Color(0.635294, 0.898039, 0.482353, 1)
+editors/bone_mapper/handle_colors/missing = Color(1, 0.929412, 0.447059, 1)
+editors/bone_mapper/handle_colors/error = Color(1, 0.427451, 0.494118, 1)
